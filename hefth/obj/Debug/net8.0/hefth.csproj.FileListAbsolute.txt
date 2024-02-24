@@ -1,0 +1,291 @@
+E:\derasa\1- Learning\Asp .net core\projects\hefth\hefth\bin\Debug\net8.0\appsettings.Development.json
+E:\derasa\1- Learning\Asp .net core\projects\hefth\hefth\bin\Debug\net8.0\appsettings.json
+E:\derasa\1- Learning\Asp .net core\projects\hefth\hefth\bin\Debug\net8.0\hefth.exe
+E:\derasa\1- Learning\Asp .net core\projects\hefth\hefth\bin\Debug\net8.0\hefth.deps.json
+E:\derasa\1- Learning\Asp .net core\projects\hefth\hefth\bin\Debug\net8.0\hefth.runtimeconfig.json
+E:\derasa\1- Learning\Asp .net core\projects\hefth\hefth\bin\Debug\net8.0\hefth.dll
+E:\derasa\1- Learning\Asp .net core\projects\hefth\hefth\bin\Debug\net8.0\hefth.pdb
+E:\derasa\1- Learning\Asp .net core\projects\hefth\hefth\bin\Debug\net8.0\Azure.Core.dll
+E:\derasa\1- Learning\Asp .net core\projects\hefth\hefth\bin\Debug\net8.0\Azure.Identity.dll
+E:\derasa\1- Learning\Asp .net core\projects\hefth\hefth\bin\Debug\net8.0\Humanizer.dll
+E:\derasa\1- Learning\Asp .net core\projects\hefth\hefth\bin\Debug\net8.0\MediatR.dll
+E:\derasa\1- Learning\Asp .net core\projects\hefth\hefth\bin\Debug\net8.0\MediatR.Contracts.dll
+E:\derasa\1- Learning\Asp .net core\projects\hefth\hefth\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\derasa\1- Learning\Asp .net core\projects\hefth\hefth\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\derasa\1- Learning\Asp .net core\projects\hefth\hefth\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\derasa\1- Learning\Asp .net core\projects\hefth\hefth\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\derasa\1- Learning\Asp .net core\projects\hefth\hefth\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\derasa\1- Learning\Asp .net core\projects\hefth\hefth\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+E:\derasa\1- Learning\Asp .net core\projects\hefth\hefth\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\derasa\1- Learning\Asp .net core\projects\hefth\hefth\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\derasa\1- Learning\Asp .net core\projects\hefth\hefth\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\derasa\1- Learning\Asp .net core\projects\hefth\hefth\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+E:\derasa\1- Learning\Asp .net core\projects\hefth\hefth\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+E:\derasa\1- Learning\Asp .net core\projects\hefth\hefth\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\derasa\1- Learning\Asp .net core\projects\hefth\hefth\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\derasa\1- Learning\Asp .net core\projects\hefth\hefth\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\derasa\1- Learning\Asp .net core\projects\hefth\hefth\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\derasa\1- Learning\Asp .net core\projects\hefth\hefth\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+E:\derasa\1- Learning\Asp .net core\projects\hefth\hefth\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+E:\derasa\1- Learning\Asp .net core\projects\hefth\hefth\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+E:\derasa\1- Learning\Asp .net core\projects\hefth\hefth\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+E:\derasa\1- Learning\Asp .net core\projects\hefth\hefth\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+E:\derasa\1- Learning\Asp .net core\projects\hefth\hefth\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\derasa\1- Learning\Asp .net core\projects\hefth\hefth\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+E:\derasa\1- Learning\Asp .net core\projects\hefth\hefth\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\derasa\1- Learning\Asp .net core\projects\hefth\hefth\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+E:\derasa\1- Learning\Asp .net core\projects\hefth\hefth\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+E:\derasa\1- Learning\Asp .net core\projects\hefth\hefth\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\derasa\1- Learning\Asp .net core\projects\hefth\hefth\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+E:\derasa\1- Learning\Asp .net core\projects\hefth\hefth\bin\Debug\net8.0\Microsoft.OpenApi.dll
+E:\derasa\1- Learning\Asp .net core\projects\hefth\hefth\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+E:\derasa\1- Learning\Asp .net core\projects\hefth\hefth\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+E:\derasa\1- Learning\Asp .net core\projects\hefth\hefth\bin\Debug\net8.0\Mono.TextTemplating.dll
+E:\derasa\1- Learning\Asp .net core\projects\hefth\hefth\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\derasa\1- Learning\Asp .net core\projects\hefth\hefth\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\derasa\1- Learning\Asp .net core\projects\hefth\hefth\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\derasa\1- Learning\Asp .net core\projects\hefth\hefth\bin\Debug\net8.0\System.CodeDom.dll
+E:\derasa\1- Learning\Asp .net core\projects\hefth\hefth\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+E:\derasa\1- Learning\Asp .net core\projects\hefth\hefth\bin\Debug\net8.0\System.Composition.Convention.dll
+E:\derasa\1- Learning\Asp .net core\projects\hefth\hefth\bin\Debug\net8.0\System.Composition.Hosting.dll
+E:\derasa\1- Learning\Asp .net core\projects\hefth\hefth\bin\Debug\net8.0\System.Composition.Runtime.dll
+E:\derasa\1- Learning\Asp .net core\projects\hefth\hefth\bin\Debug\net8.0\System.Composition.TypedParts.dll
+E:\derasa\1- Learning\Asp .net core\projects\hefth\hefth\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+E:\derasa\1- Learning\Asp .net core\projects\hefth\hefth\bin\Debug\net8.0\System.Drawing.Common.dll
+E:\derasa\1- Learning\Asp .net core\projects\hefth\hefth\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+E:\derasa\1- Learning\Asp .net core\projects\hefth\hefth\bin\Debug\net8.0\System.Memory.Data.dll
+E:\derasa\1- Learning\Asp .net core\projects\hefth\hefth\bin\Debug\net8.0\System.Runtime.Caching.dll
+E:\derasa\1- Learning\Asp .net core\projects\hefth\hefth\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+E:\derasa\1- Learning\Asp .net core\projects\hefth\hefth\bin\Debug\net8.0\System.Security.Permissions.dll
+E:\derasa\1- Learning\Asp .net core\projects\hefth\hefth\bin\Debug\net8.0\System.Windows.Extensions.dll
+E:\derasa\1- Learning\Asp .net core\projects\hefth\hefth\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\derasa\1- Learning\Asp .net core\projects\hefth\hefth\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\derasa\1- Learning\Asp .net core\projects\hefth\hefth\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\derasa\1- Learning\Asp .net core\projects\hefth\hefth\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\derasa\1- Learning\Asp .net core\projects\hefth\hefth\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\derasa\1- Learning\Asp .net core\projects\hefth\hefth\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\derasa\1- Learning\Asp .net core\projects\hefth\hefth\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\derasa\1- Learning\Asp .net core\projects\hefth\hefth\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\derasa\1- Learning\Asp .net core\projects\hefth\hefth\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\derasa\1- Learning\Asp .net core\projects\hefth\hefth\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\derasa\1- Learning\Asp .net core\projects\hefth\hefth\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\derasa\1- Learning\Asp .net core\projects\hefth\hefth\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\derasa\1- Learning\Asp .net core\projects\hefth\hefth\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\derasa\1- Learning\Asp .net core\projects\hefth\hefth\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\derasa\1- Learning\Asp .net core\projects\hefth\hefth\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\derasa\1- Learning\Asp .net core\projects\hefth\hefth\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\derasa\1- Learning\Asp .net core\projects\hefth\hefth\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\derasa\1- Learning\Asp .net core\projects\hefth\hefth\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\derasa\1- Learning\Asp .net core\projects\hefth\hefth\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\derasa\1- Learning\Asp .net core\projects\hefth\hefth\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\derasa\1- Learning\Asp .net core\projects\hefth\hefth\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\derasa\1- Learning\Asp .net core\projects\hefth\hefth\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\derasa\1- Learning\Asp .net core\projects\hefth\hefth\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\derasa\1- Learning\Asp .net core\projects\hefth\hefth\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\derasa\1- Learning\Asp .net core\projects\hefth\hefth\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\derasa\1- Learning\Asp .net core\projects\hefth\hefth\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\derasa\1- Learning\Asp .net core\projects\hefth\hefth\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\derasa\1- Learning\Asp .net core\projects\hefth\hefth\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\derasa\1- Learning\Asp .net core\projects\hefth\hefth\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\derasa\1- Learning\Asp .net core\projects\hefth\hefth\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\derasa\1- Learning\Asp .net core\projects\hefth\hefth\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\derasa\1- Learning\Asp .net core\projects\hefth\hefth\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\derasa\1- Learning\Asp .net core\projects\hefth\hefth\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\derasa\1- Learning\Asp .net core\projects\hefth\hefth\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\derasa\1- Learning\Asp .net core\projects\hefth\hefth\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\derasa\1- Learning\Asp .net core\projects\hefth\hefth\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\derasa\1- Learning\Asp .net core\projects\hefth\hefth\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\derasa\1- Learning\Asp .net core\projects\hefth\hefth\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\derasa\1- Learning\Asp .net core\projects\hefth\hefth\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\derasa\1- Learning\Asp .net core\projects\hefth\hefth\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\derasa\1- Learning\Asp .net core\projects\hefth\hefth\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\derasa\1- Learning\Asp .net core\projects\hefth\hefth\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\derasa\1- Learning\Asp .net core\projects\hefth\hefth\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\derasa\1- Learning\Asp .net core\projects\hefth\hefth\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\derasa\1- Learning\Asp .net core\projects\hefth\hefth\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\derasa\1- Learning\Asp .net core\projects\hefth\hefth\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\derasa\1- Learning\Asp .net core\projects\hefth\hefth\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\derasa\1- Learning\Asp .net core\projects\hefth\hefth\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\derasa\1- Learning\Asp .net core\projects\hefth\hefth\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\derasa\1- Learning\Asp .net core\projects\hefth\hefth\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\derasa\1- Learning\Asp .net core\projects\hefth\hefth\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\derasa\1- Learning\Asp .net core\projects\hefth\hefth\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\derasa\1- Learning\Asp .net core\projects\hefth\hefth\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\derasa\1- Learning\Asp .net core\projects\hefth\hefth\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\derasa\1- Learning\Asp .net core\projects\hefth\hefth\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\derasa\1- Learning\Asp .net core\projects\hefth\hefth\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\derasa\1- Learning\Asp .net core\projects\hefth\hefth\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\derasa\1- Learning\Asp .net core\projects\hefth\hefth\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\derasa\1- Learning\Asp .net core\projects\hefth\hefth\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\derasa\1- Learning\Asp .net core\projects\hefth\hefth\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\derasa\1- Learning\Asp .net core\projects\hefth\hefth\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\derasa\1- Learning\Asp .net core\projects\hefth\hefth\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\derasa\1- Learning\Asp .net core\projects\hefth\hefth\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\derasa\1- Learning\Asp .net core\projects\hefth\hefth\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\derasa\1- Learning\Asp .net core\projects\hefth\hefth\obj\Debug\net8.0\hefth.csproj.AssemblyReference.cache
+E:\derasa\1- Learning\Asp .net core\projects\hefth\hefth\obj\Debug\net8.0\hefth.GeneratedMSBuildEditorConfig.editorconfig
+E:\derasa\1- Learning\Asp .net core\projects\hefth\hefth\obj\Debug\net8.0\hefth.AssemblyInfoInputs.cache
+E:\derasa\1- Learning\Asp .net core\projects\hefth\hefth\obj\Debug\net8.0\hefth.AssemblyInfo.cs
+E:\derasa\1- Learning\Asp .net core\projects\hefth\hefth\obj\Debug\net8.0\hefth.csproj.CoreCompileInputs.cache
+E:\derasa\1- Learning\Asp .net core\projects\hefth\hefth\obj\Debug\net8.0\hefth.MvcApplicationPartsAssemblyInfo.cs
+E:\derasa\1- Learning\Asp .net core\projects\hefth\hefth\obj\Debug\net8.0\hefth.MvcApplicationPartsAssemblyInfo.cache
+E:\derasa\1- Learning\Asp .net core\projects\hefth\hefth\obj\Debug\net8.0\staticwebassets.build.json
+E:\derasa\1- Learning\Asp .net core\projects\hefth\hefth\obj\Debug\net8.0\staticwebassets.development.json
+E:\derasa\1- Learning\Asp .net core\projects\hefth\hefth\obj\Debug\net8.0\staticwebassets\msbuild.hefth.Microsoft.AspNetCore.StaticWebAssets.props
+E:\derasa\1- Learning\Asp .net core\projects\hefth\hefth\obj\Debug\net8.0\staticwebassets\msbuild.build.hefth.props
+E:\derasa\1- Learning\Asp .net core\projects\hefth\hefth\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.hefth.props
+E:\derasa\1- Learning\Asp .net core\projects\hefth\hefth\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.hefth.props
+E:\derasa\1- Learning\Asp .net core\projects\hefth\hefth\obj\Debug\net8.0\staticwebassets.pack.json
+E:\derasa\1- Learning\Asp .net core\projects\hefth\hefth\obj\Debug\net8.0\scopedcss\bundle\hefth.styles.css
+E:\derasa\1- Learning\Asp .net core\projects\hefth\hefth\obj\Debug\net8.0\hefth.csproj.CopyComplete
+E:\derasa\1- Learning\Asp .net core\projects\hefth\hefth\obj\Debug\net8.0\hefth.dll
+E:\derasa\1- Learning\Asp .net core\projects\hefth\hefth\obj\Debug\net8.0\refint\hefth.dll
+E:\derasa\1- Learning\Asp .net core\projects\hefth\hefth\obj\Debug\net8.0\hefth.pdb
+E:\derasa\1- Learning\Asp .net core\projects\hefth\hefth\obj\Debug\net8.0\hefth.genruntimeconfig.cache
+E:\derasa\1- Learning\Asp .net core\projects\hefth\hefth\obj\Debug\net8.0\ref\hefth.dll
+E:\derasa\1- Learning\Asp .net core\projects\hefth - Copy\hefth\bin\Debug\net8.0\appsettings.Development.json
+E:\derasa\1- Learning\Asp .net core\projects\hefth - Copy\hefth\bin\Debug\net8.0\appsettings.json
+E:\derasa\1- Learning\Asp .net core\projects\hefth - Copy\hefth\bin\Debug\net8.0\hefth.exe
+E:\derasa\1- Learning\Asp .net core\projects\hefth - Copy\hefth\bin\Debug\net8.0\hefth.deps.json
+E:\derasa\1- Learning\Asp .net core\projects\hefth - Copy\hefth\bin\Debug\net8.0\hefth.runtimeconfig.json
+E:\derasa\1- Learning\Asp .net core\projects\hefth - Copy\hefth\bin\Debug\net8.0\hefth.dll
+E:\derasa\1- Learning\Asp .net core\projects\hefth - Copy\hefth\bin\Debug\net8.0\hefth.pdb
+E:\derasa\1- Learning\Asp .net core\projects\hefth - Copy\hefth\bin\Debug\net8.0\Azure.Core.dll
+E:\derasa\1- Learning\Asp .net core\projects\hefth - Copy\hefth\bin\Debug\net8.0\Azure.Identity.dll
+E:\derasa\1- Learning\Asp .net core\projects\hefth - Copy\hefth\bin\Debug\net8.0\Humanizer.dll
+E:\derasa\1- Learning\Asp .net core\projects\hefth - Copy\hefth\bin\Debug\net8.0\MediatR.dll
+E:\derasa\1- Learning\Asp .net core\projects\hefth - Copy\hefth\bin\Debug\net8.0\MediatR.Contracts.dll
+E:\derasa\1- Learning\Asp .net core\projects\hefth - Copy\hefth\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\derasa\1- Learning\Asp .net core\projects\hefth - Copy\hefth\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\derasa\1- Learning\Asp .net core\projects\hefth - Copy\hefth\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\derasa\1- Learning\Asp .net core\projects\hefth - Copy\hefth\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\derasa\1- Learning\Asp .net core\projects\hefth - Copy\hefth\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\derasa\1- Learning\Asp .net core\projects\hefth - Copy\hefth\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+E:\derasa\1- Learning\Asp .net core\projects\hefth - Copy\hefth\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\derasa\1- Learning\Asp .net core\projects\hefth - Copy\hefth\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\derasa\1- Learning\Asp .net core\projects\hefth - Copy\hefth\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\derasa\1- Learning\Asp .net core\projects\hefth - Copy\hefth\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+E:\derasa\1- Learning\Asp .net core\projects\hefth - Copy\hefth\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+E:\derasa\1- Learning\Asp .net core\projects\hefth - Copy\hefth\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\derasa\1- Learning\Asp .net core\projects\hefth - Copy\hefth\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\derasa\1- Learning\Asp .net core\projects\hefth - Copy\hefth\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\derasa\1- Learning\Asp .net core\projects\hefth - Copy\hefth\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\derasa\1- Learning\Asp .net core\projects\hefth - Copy\hefth\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+E:\derasa\1- Learning\Asp .net core\projects\hefth - Copy\hefth\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+E:\derasa\1- Learning\Asp .net core\projects\hefth - Copy\hefth\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+E:\derasa\1- Learning\Asp .net core\projects\hefth - Copy\hefth\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+E:\derasa\1- Learning\Asp .net core\projects\hefth - Copy\hefth\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+E:\derasa\1- Learning\Asp .net core\projects\hefth - Copy\hefth\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\derasa\1- Learning\Asp .net core\projects\hefth - Copy\hefth\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+E:\derasa\1- Learning\Asp .net core\projects\hefth - Copy\hefth\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\derasa\1- Learning\Asp .net core\projects\hefth - Copy\hefth\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+E:\derasa\1- Learning\Asp .net core\projects\hefth - Copy\hefth\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+E:\derasa\1- Learning\Asp .net core\projects\hefth - Copy\hefth\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\derasa\1- Learning\Asp .net core\projects\hefth - Copy\hefth\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+E:\derasa\1- Learning\Asp .net core\projects\hefth - Copy\hefth\bin\Debug\net8.0\Microsoft.OpenApi.dll
+E:\derasa\1- Learning\Asp .net core\projects\hefth - Copy\hefth\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+E:\derasa\1- Learning\Asp .net core\projects\hefth - Copy\hefth\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+E:\derasa\1- Learning\Asp .net core\projects\hefth - Copy\hefth\bin\Debug\net8.0\Mono.TextTemplating.dll
+E:\derasa\1- Learning\Asp .net core\projects\hefth - Copy\hefth\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\derasa\1- Learning\Asp .net core\projects\hefth - Copy\hefth\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\derasa\1- Learning\Asp .net core\projects\hefth - Copy\hefth\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\derasa\1- Learning\Asp .net core\projects\hefth - Copy\hefth\bin\Debug\net8.0\System.CodeDom.dll
+E:\derasa\1- Learning\Asp .net core\projects\hefth - Copy\hefth\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+E:\derasa\1- Learning\Asp .net core\projects\hefth - Copy\hefth\bin\Debug\net8.0\System.Composition.Convention.dll
+E:\derasa\1- Learning\Asp .net core\projects\hefth - Copy\hefth\bin\Debug\net8.0\System.Composition.Hosting.dll
+E:\derasa\1- Learning\Asp .net core\projects\hefth - Copy\hefth\bin\Debug\net8.0\System.Composition.Runtime.dll
+E:\derasa\1- Learning\Asp .net core\projects\hefth - Copy\hefth\bin\Debug\net8.0\System.Composition.TypedParts.dll
+E:\derasa\1- Learning\Asp .net core\projects\hefth - Copy\hefth\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+E:\derasa\1- Learning\Asp .net core\projects\hefth - Copy\hefth\bin\Debug\net8.0\System.Drawing.Common.dll
+E:\derasa\1- Learning\Asp .net core\projects\hefth - Copy\hefth\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+E:\derasa\1- Learning\Asp .net core\projects\hefth - Copy\hefth\bin\Debug\net8.0\System.Memory.Data.dll
+E:\derasa\1- Learning\Asp .net core\projects\hefth - Copy\hefth\bin\Debug\net8.0\System.Runtime.Caching.dll
+E:\derasa\1- Learning\Asp .net core\projects\hefth - Copy\hefth\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+E:\derasa\1- Learning\Asp .net core\projects\hefth - Copy\hefth\bin\Debug\net8.0\System.Security.Permissions.dll
+E:\derasa\1- Learning\Asp .net core\projects\hefth - Copy\hefth\bin\Debug\net8.0\System.Windows.Extensions.dll
+E:\derasa\1- Learning\Asp .net core\projects\hefth - Copy\hefth\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\derasa\1- Learning\Asp .net core\projects\hefth - Copy\hefth\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\derasa\1- Learning\Asp .net core\projects\hefth - Copy\hefth\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\derasa\1- Learning\Asp .net core\projects\hefth - Copy\hefth\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\derasa\1- Learning\Asp .net core\projects\hefth - Copy\hefth\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\derasa\1- Learning\Asp .net core\projects\hefth - Copy\hefth\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\derasa\1- Learning\Asp .net core\projects\hefth - Copy\hefth\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\derasa\1- Learning\Asp .net core\projects\hefth - Copy\hefth\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\derasa\1- Learning\Asp .net core\projects\hefth - Copy\hefth\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\derasa\1- Learning\Asp .net core\projects\hefth - Copy\hefth\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\derasa\1- Learning\Asp .net core\projects\hefth - Copy\hefth\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\derasa\1- Learning\Asp .net core\projects\hefth - Copy\hefth\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\derasa\1- Learning\Asp .net core\projects\hefth - Copy\hefth\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\derasa\1- Learning\Asp .net core\projects\hefth - Copy\hefth\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\derasa\1- Learning\Asp .net core\projects\hefth - Copy\hefth\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\derasa\1- Learning\Asp .net core\projects\hefth - Copy\hefth\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\derasa\1- Learning\Asp .net core\projects\hefth - Copy\hefth\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\derasa\1- Learning\Asp .net core\projects\hefth - Copy\hefth\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\derasa\1- Learning\Asp .net core\projects\hefth - Copy\hefth\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\derasa\1- Learning\Asp .net core\projects\hefth - Copy\hefth\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\derasa\1- Learning\Asp .net core\projects\hefth - Copy\hefth\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\derasa\1- Learning\Asp .net core\projects\hefth - Copy\hefth\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\derasa\1- Learning\Asp .net core\projects\hefth - Copy\hefth\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\derasa\1- Learning\Asp .net core\projects\hefth - Copy\hefth\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\derasa\1- Learning\Asp .net core\projects\hefth - Copy\hefth\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\derasa\1- Learning\Asp .net core\projects\hefth - Copy\hefth\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\derasa\1- Learning\Asp .net core\projects\hefth - Copy\hefth\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\derasa\1- Learning\Asp .net core\projects\hefth - Copy\hefth\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\derasa\1- Learning\Asp .net core\projects\hefth - Copy\hefth\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\derasa\1- Learning\Asp .net core\projects\hefth - Copy\hefth\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\derasa\1- Learning\Asp .net core\projects\hefth - Copy\hefth\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\derasa\1- Learning\Asp .net core\projects\hefth - Copy\hefth\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\derasa\1- Learning\Asp .net core\projects\hefth - Copy\hefth\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\derasa\1- Learning\Asp .net core\projects\hefth - Copy\hefth\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\derasa\1- Learning\Asp .net core\projects\hefth - Copy\hefth\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\derasa\1- Learning\Asp .net core\projects\hefth - Copy\hefth\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\derasa\1- Learning\Asp .net core\projects\hefth - Copy\hefth\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\derasa\1- Learning\Asp .net core\projects\hefth - Copy\hefth\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\derasa\1- Learning\Asp .net core\projects\hefth - Copy\hefth\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\derasa\1- Learning\Asp .net core\projects\hefth - Copy\hefth\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\derasa\1- Learning\Asp .net core\projects\hefth - Copy\hefth\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\derasa\1- Learning\Asp .net core\projects\hefth - Copy\hefth\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\derasa\1- Learning\Asp .net core\projects\hefth - Copy\hefth\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\derasa\1- Learning\Asp .net core\projects\hefth - Copy\hefth\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\derasa\1- Learning\Asp .net core\projects\hefth - Copy\hefth\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\derasa\1- Learning\Asp .net core\projects\hefth - Copy\hefth\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\derasa\1- Learning\Asp .net core\projects\hefth - Copy\hefth\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\derasa\1- Learning\Asp .net core\projects\hefth - Copy\hefth\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\derasa\1- Learning\Asp .net core\projects\hefth - Copy\hefth\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\derasa\1- Learning\Asp .net core\projects\hefth - Copy\hefth\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\derasa\1- Learning\Asp .net core\projects\hefth - Copy\hefth\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\derasa\1- Learning\Asp .net core\projects\hefth - Copy\hefth\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\derasa\1- Learning\Asp .net core\projects\hefth - Copy\hefth\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\derasa\1- Learning\Asp .net core\projects\hefth - Copy\hefth\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\derasa\1- Learning\Asp .net core\projects\hefth - Copy\hefth\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\derasa\1- Learning\Asp .net core\projects\hefth - Copy\hefth\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\derasa\1- Learning\Asp .net core\projects\hefth - Copy\hefth\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\derasa\1- Learning\Asp .net core\projects\hefth - Copy\hefth\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\derasa\1- Learning\Asp .net core\projects\hefth - Copy\hefth\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\derasa\1- Learning\Asp .net core\projects\hefth - Copy\hefth\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\derasa\1- Learning\Asp .net core\projects\hefth - Copy\hefth\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\derasa\1- Learning\Asp .net core\projects\hefth - Copy\hefth\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\derasa\1- Learning\Asp .net core\projects\hefth - Copy\hefth\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\derasa\1- Learning\Asp .net core\projects\hefth - Copy\hefth\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\derasa\1- Learning\Asp .net core\projects\hefth - Copy\hefth\obj\Debug\net8.0\hefth.csproj.AssemblyReference.cache
+E:\derasa\1- Learning\Asp .net core\projects\hefth - Copy\hefth\obj\Debug\net8.0\hefth.GeneratedMSBuildEditorConfig.editorconfig
+E:\derasa\1- Learning\Asp .net core\projects\hefth - Copy\hefth\obj\Debug\net8.0\hefth.AssemblyInfoInputs.cache
+E:\derasa\1- Learning\Asp .net core\projects\hefth - Copy\hefth\obj\Debug\net8.0\hefth.AssemblyInfo.cs
+E:\derasa\1- Learning\Asp .net core\projects\hefth - Copy\hefth\obj\Debug\net8.0\hefth.csproj.CoreCompileInputs.cache
+E:\derasa\1- Learning\Asp .net core\projects\hefth - Copy\hefth\obj\Debug\net8.0\hefth.MvcApplicationPartsAssemblyInfo.cs
+E:\derasa\1- Learning\Asp .net core\projects\hefth - Copy\hefth\obj\Debug\net8.0\hefth.MvcApplicationPartsAssemblyInfo.cache
+E:\derasa\1- Learning\Asp .net core\projects\hefth - Copy\hefth\obj\Debug\net8.0\hefth.sourcelink.json
+E:\derasa\1- Learning\Asp .net core\projects\hefth - Copy\hefth\obj\Debug\net8.0\staticwebassets.build.json
+E:\derasa\1- Learning\Asp .net core\projects\hefth - Copy\hefth\obj\Debug\net8.0\staticwebassets.development.json
+E:\derasa\1- Learning\Asp .net core\projects\hefth - Copy\hefth\obj\Debug\net8.0\staticwebassets\msbuild.hefth.Microsoft.AspNetCore.StaticWebAssets.props
+E:\derasa\1- Learning\Asp .net core\projects\hefth - Copy\hefth\obj\Debug\net8.0\staticwebassets\msbuild.build.hefth.props
+E:\derasa\1- Learning\Asp .net core\projects\hefth - Copy\hefth\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.hefth.props
+E:\derasa\1- Learning\Asp .net core\projects\hefth - Copy\hefth\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.hefth.props
+E:\derasa\1- Learning\Asp .net core\projects\hefth - Copy\hefth\obj\Debug\net8.0\staticwebassets.pack.json
+E:\derasa\1- Learning\Asp .net core\projects\hefth - Copy\hefth\obj\Debug\net8.0\scopedcss\bundle\hefth.styles.css
+E:\derasa\1- Learning\Asp .net core\projects\hefth - Copy\hefth\obj\Debug\net8.0\hefth.csproj.CopyComplete
+E:\derasa\1- Learning\Asp .net core\projects\hefth - Copy\hefth\obj\Debug\net8.0\hefth.dll
+E:\derasa\1- Learning\Asp .net core\projects\hefth - Copy\hefth\obj\Debug\net8.0\refint\hefth.dll
+E:\derasa\1- Learning\Asp .net core\projects\hefth - Copy\hefth\obj\Debug\net8.0\hefth.pdb
+E:\derasa\1- Learning\Asp .net core\projects\hefth - Copy\hefth\obj\Debug\net8.0\hefth.genruntimeconfig.cache
+E:\derasa\1- Learning\Asp .net core\projects\hefth - Copy\hefth\obj\Debug\net8.0\ref\hefth.dll

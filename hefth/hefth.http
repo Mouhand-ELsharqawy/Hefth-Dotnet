@@ -1,0 +1,6 @@
+@hefth_HostAddress = http://localhost:5103
+
+GET {{hefth_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

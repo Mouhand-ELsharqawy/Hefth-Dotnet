@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\hefth.props" />
+</Project>
